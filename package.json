@@ -1,6 +1,7 @@
 {
   "name": "getting-started",
   "version": "1.0.0",
+  "homepage": "https://tadjik1.github.io/getting-started",
   "private": true,
   "scripts": {
     "build": "webpack",
