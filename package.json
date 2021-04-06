@@ -4,7 +4,7 @@
   "homepage": "https://tadjik1.github.io/getting-started",
   "private": true,
   "scripts": {
-    "build": "webpack",
+    "build": "webpack --mode production",
     "start": "webpack serve --open",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
